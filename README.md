@@ -8,7 +8,8 @@ This project explores a **movies dataset** to analyze trends in genres, ratings,
 
 ## 🔎 Project Overview  
 - **Objective**: Analyze the movie dataset to uncover insights about popularity, ratings, and revenue across genres and time.  
-- **Dataset**: [`movies.csv`](./movies.csv)  
+- **Dataset**: [`movies.csv`](./movies.csv)
+- **Kaggle Dataset Link**: https://www.kaggle.com/datasets/danielgrijalvas/movies?resource=download 
 - **Notebook**: [`Movie Portfolio Project.ipynb`](./Movie%20Portfolio%20Project.ipynb)  
 
 ---
